@@ -1,5 +1,5 @@
 var a:string = "Umayer"
-var age:number = 21
+var age:number | string = 21
 var b:boolean = true
 
 console.log(a)
