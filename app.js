@@ -1,7 +1,7 @@
 "use strict";
-let a = "Umayer";
-let age = 21;
-let b = true;
+var a = "Umayer";
+var age = 21;
+var b = true;
 console.log(a);
 console.log(age);
 console.log(b);

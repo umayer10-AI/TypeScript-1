@@ -1,6 +1,6 @@
-let a:string = "Umayer"
-let age:number = 21
-let b:boolean = true
+var a:string = "Umayer"
+var age:number = 21
+var b:boolean = true
 
 console.log(a)
 console.log(age)
