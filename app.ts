@@ -4,5 +4,4 @@ var b:boolean = true
 
 console.log(a)
 console.log(age)
-
 console.log(b)
